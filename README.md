@@ -1,3 +1,5 @@
+See https://qiita.com/fan2tamo/items/36bc8f9657d1a430aa54.
+
 # Create IR Model
 ## Learning MNIST and Create ONNX Model
 
