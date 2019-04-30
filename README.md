@@ -2,7 +2,7 @@
 ## Learning MNIST and Create ONNX Model
 
 ~~~python
-python mnist.py
+python3 mnist.py
 ~~~
 
 ## Convert ONNX Model to IR Model
